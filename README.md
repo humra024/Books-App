@@ -3,10 +3,11 @@ This project is a Simple CRUD Books App built using the MERN stack (MongoDB, Exp
 
 Features
 1. Browse Books: View a list of available books.
-2. Add New Books: Add new books to the database with relevant details.
-3. Edit Book Information: Modify details of an existing book.
-4. View Book Details: Read more information about a specific book.
-5. Delete Books: Remove books from the collection.
+2. Filter Books: Filter books based in their genre.
+3. Add New Books: Add new books to the database with relevant details.
+4. Edit Book Information: Modify details of an existing book.
+5. View Book Details: Read more information about a specific book.
+6. Delete Books: Remove books from the collection.
 
 WEBSITE SCREENSHOTS:
 
